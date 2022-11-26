@@ -43,7 +43,14 @@
 ## Работа с изображениями
 
 Чтобы вставить изображение в текст, достаточно написать следующее:![Привет!](Teftelka.jpg)
+
 ## Ссылки
+
+Для создания ссылки надо написать текст ссылки в квадратных скобках, и сразу после — URL-адрес в круглых скобках. Например, так: GIT можно скачать тут [git-scm.com](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git.com).
+
+
+Или  [тут](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git.com/  "git-scm.com"). 
+
 
 ## Работа с таблицами
 
